@@ -6,7 +6,7 @@
 ### Project Link : https://mentoring-io.netlify.app/
 ### Agile Methodology : https://trello.com/b/dvwvLyb5/mentoringio
 ### Presentation Link : https://bit.ly/31a4jSV
-### Video Demo : https://bit.ly/meetify-ppt
+### Video Demo : https://youtu.be/317-PqTdES8
 
 
 ## Username: admin
